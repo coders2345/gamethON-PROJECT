@@ -1,0 +1,2 @@
+Name: "SpawnPoint"
+RootId: 8051303689686753139

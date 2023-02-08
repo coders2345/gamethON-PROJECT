@@ -1,0 +1,95 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "1e215524c3344e9e8e0d24713f63e88f"
+  OwnerAccountId: "901b7628983c4c8db4282f24afeda57a"
+  OwnerName: "Buckmonster"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 325587996739030354
+  value: 13117801843248293183
+}
+AssetIdsOriginalToNew {
+  key: 3708052480892566697
+  value: 3991355880464827684
+}
+AssetIdsOriginalToNew {
+  key: 3822452216767442523
+  value: 2066591883155428974
+}
+AssetIdsOriginalToNew {
+  key: 4136525272568327840
+  value: 13117350616400086177
+}
+AssetIdsOriginalToNew {
+  key: 4445517596040526557
+  value: 9632009641803205435
+}
+AssetIdsOriginalToNew {
+  key: 6327337962299690162
+  value: 7163100344880423084
+}
+AssetIdsOriginalToNew {
+  key: 6606180096251227145
+  value: 17503226886578994045
+}
+AssetIdsOriginalToNew {
+  key: 6644258681754667841
+  value: 2111801270003047921
+}
+AssetIdsOriginalToNew {
+  key: 8686789904438276100
+  value: 9667026772896910329
+}
+AssetIdsOriginalToNew {
+  key: 9526136340885606176
+  value: 16853227374213703814
+}
+AssetIdsOriginalToNew {
+  key: 9779715450335884806
+  value: 7722488856210692223
+}
+AssetIdsOriginalToNew {
+  key: 10277662370788715040
+  value: 3267198762655568499
+}
+AssetIdsOriginalToNew {
+  key: 11187652370115455937
+  value: 16440722826325724269
+}
+AssetIdsOriginalToNew {
+  key: 12215149657074434779
+  value: 3623580833490771571
+}
+AssetIdsOriginalToNew {
+  key: 13726631445553350262
+  value: 14869327958214724532
+}
+AssetIdsOriginalToNew {
+  key: 14593800887040677966
+  value: 15651817879165080683
+}
+AssetIdsOriginalToNew {
+  key: 14616926957049993803
+  value: 1359621308648550566
+}
+AssetIdsOriginalToNew {
+  key: 15224278398988079432
+  value: 13526167935013027644
+}
+AssetIdsOriginalToNew {
+  key: 15482940932868773687
+  value: 17936568390405424353
+}
+AssetIdsOriginalToNew {
+  key: 17188431200580395340
+  value: 15138731726765426421
+}
+AssetIdsOriginalToNew {
+  key: 17204676881287663617
+  value: 17823913449712156727
+}
+AssetIdsOriginalToNew {
+  key: 18298717973601480746
+  value: 4700966003540203376
+}
